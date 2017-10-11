@@ -1,0 +1,30 @@
+{
+  "name": "react-native-image-swiper",
+  "version": "1.0.0",
+  "description": "An easy to use image slider and fully customizable using props",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "react",
+    "react-native",
+    "slider",
+    "swiper",
+    "image-swiper",
+    "image-slider"
+  ],
+  "author": "Ravin Gupta",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "Ravin Gupta",
+      "email": "ravingupta129@gmail.com"
+    },
+    {
+      "name": "Saurabh Joshi",
+      "email": "saurabhjayx@gmail.com"
+    }
+  ]
+}
