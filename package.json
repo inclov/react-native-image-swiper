@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
   "keywords": [
     "image",
     "react",
@@ -15,7 +18,10 @@
     "image-swiper",
     "image-slider"
   ],
-  "author": "Ravin Gupta",
+  "author": { 
+    "name" : "Ravin Gupta", 
+    "email" : "ravingupta129@inclov.com"
+  },
   "license": "MIT",
   "maintainers": [
     {
@@ -26,5 +32,12 @@
       "name": "Saurabh Joshi",
       "email": "saurabhjayx@gmail.com"
     }
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inclov/react-native-image-swiper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/inclov/react-native-image-swiper/issues"
+  }
 }
